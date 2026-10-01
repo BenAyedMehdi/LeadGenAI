@@ -1,0 +1,8 @@
+{
+  "name": "LeadGen AI",
+  "description": "Internal Bosch sales intelligence tool for discovering, scoring, and engaging enterprise leads with transparent evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
